@@ -1,0 +1,36 @@
+main .visual{
+    position: relative;
+    height: 700px;
+    overflow: hidden;
+}
+main .visual img{
+    width: 100%;
+}
+main .visual .txt{
+    position: absolute;
+    left: 260px; bottom: 100px;
+}
+main .visual .txt h1{
+    font-size: 2.22rem;
+    color: #fff;
+    font-family: "Red Hat Display", sans-serif;
+}
+main .visual .txt p{
+    font-size: 1.44rem;
+    font-weight: 600;
+    padding-top: 30px;
+    padding-bottom: 60px;
+    color: #fff;
+    font-family: "Red Hat Display", sans-serif;
+    line-height: 60%;
+}
+main .visual .txt a{
+    color: #fff;
+    font-family: "Red Hat Display", sans-serif;
+    font-size: 0.89rem;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    border-radius: 30px;
+    padding: 15px;
+    background-color: transparent;
+}
